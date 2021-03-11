@@ -1,0 +1,8 @@
+#! /bin/sh
+mfds -x 5 $PWD AOR1
+mfds -x 5 $PWD AOR2
+mfds -x 5 $PWD FOR
+
+
+
+

@@ -1,0 +1,10 @@
+mccerror.txt
+*.rdb
+*.int
+*.so
+*.idy
+*.o
+*.gnt
+core/core*
+ACCTFIL
+
